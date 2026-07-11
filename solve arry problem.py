@@ -1,10 +1,4 @@
-# a= [100,3,4,6,12,57]
-# large= a[0]
-# for i in a:
-#     if i >= large:
-#         large = i
-        
-# print(large)        
+       
 # def arr(a):        
 #  large= a[0]
 #  index= 0
